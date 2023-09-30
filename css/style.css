@@ -8845,7 +8845,7 @@ h1, h2, h3, h4, h5,
   .testimony-wrap .user-img {
     width: 110px;
     height: 110px;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     position: relative; }
   .testimony-wrap .name {
     font-weight: 500;
@@ -9034,7 +9034,7 @@ textarea.form-control {
 .img,
 .blog-img,
 .user-img {
-  background-size: cover;
+  background-size: fit;
   background-repeat: no-repeat;
   background-position: center center; }
 
